@@ -1,4 +1,4 @@
-# student-app
+# My Vue App
 
 ## Project setup
 ```
