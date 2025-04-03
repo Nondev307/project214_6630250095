@@ -1,0 +1,71 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "firstName": "นายณัฐนนท์",
+      "lastName": "ถาวร",
+      "studentId": "6630250095",
+      "faculty": "วิทยาศาสตร์ ศรีราชา",
+      "major": "วิทยาการคอมพิวเตอร์",
+      "school": "โรงเรียนพิบูลวิทยาลัย ลพบุรี"
+    }
+  ],
+  "courses": [
+    {
+      "id": 1,
+      "courseCode": "03752111",
+      "courseName": "Information Resources for Research",
+      "credits": 1,
+      "grade": "B+"
+    },
+    {
+      "id": 2,
+      "courseCode": "01355103",
+      "courseName": "English for Job Opportunities",
+      "credits": 3,
+      "grade": "B"
+    },
+    {
+      "id": 3,
+      "courseCode": "01418214",
+      "courseName": "Practicum in Software Development",
+      "credits": 1,
+      "grade": "A"
+    },
+    {
+      "id": 4,
+      "courseCode": "01418221",
+      "courseName": "Fundamentals of Database Systems",
+      "credits": 3,
+      "grade": "C+"
+    },
+    {
+      "id": 5,
+      "courseCode": "01418222",
+      "courseName": "Enterprise Information System",
+      "credits": 3,
+      "grade": "A"
+    },
+    {
+      "id": 6,
+      "courseCode": "01418232",
+      "courseName": "Algorithm Design and Analysis",
+      "credits": 3,
+      "grade": "C"
+    },
+    {
+      "id": 7,
+      "courseCode": "01418236",
+      "courseName": "Operating Systems",
+      "credits": 3,
+      "grade": "D+"
+    },
+    {
+      "id": 8,
+      "courseCode": "01418261",
+      "courseName": "Fundamentals of Artificial Intelligence",
+      "credits": 3,
+      "grade": "D"
+    }
+  ]
+}
